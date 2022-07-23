@@ -1,16 +1,19 @@
-# Bife à parmegiana
+# Bife à parmegiana :cow: :tomato:
+
+## É uma receita muito gostosta, você precisa tentar !!!!
 
 ### Ingredientes
- - 500 g de alcatra ou contra filé em bifes
- - 2 dentes de alho amassados
- - orégano, sal e vinagre a gosto
- - 2 ovos batidos com 1 pitada de sal
- - farinha de rosca, o suficiente
- - 1/2 litro de molho de tomate pronto
- - 250 g de mussarela em fatias
- - queijo parmesão ralado para polvilhar
 
- ### Modo de fazer
+- 1/2 litro de molho de tomate pronto
+- 250 g de mussarela em fatias
+- queijo parmesão ralado para polvilhar
+- 500 g de alcatra ou contra filé em bifes
+- 2 dentes de alho amassados
+- orégano, sal e vinagre a gosto
+- 2 ovos batidos com 1 pitada de sal
+- farinha de rosca, o suficiente
+
+### Modo de fazer
 
 Tempere os filés com o alho, orégano, sal e vinagre.
 

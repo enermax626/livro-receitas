@@ -1,6 +1,5 @@
 # Minhas receitas
 
-### Estrogonofe de frango :chicken:
-### Bife à parmegiana :cow::tomato: 
+### :chicken: Estrogonofe de frango
 
-
+### :cow::tomato: Bife à parmegiana
