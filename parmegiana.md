@@ -1,4 +1,4 @@
-# Bife à parmegiana
+# Bife à parmegiana :meat_on_bone::tomato
 
 ### Ingredientes
  - 500 g de alcatra ou contra filé em bifes

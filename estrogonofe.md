@@ -1,4 +1,4 @@
-# Estrogonofe de frango :chicken:
+# Estrogonofe de frango :poultry_leg:
 
 ### Ingredientes
 
